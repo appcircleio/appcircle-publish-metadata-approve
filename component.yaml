@@ -1,7 +1,7 @@
 platform: Common
 purpose: Publish
 buildPlatform:
-displayName: "Metadata Approval"
+displayName: "Metadata Approval via Email"
 description: "Sends meta-data approval link to the specified email address"
 marketPlace: "AppleAppStore"
 runOn: "Server"
